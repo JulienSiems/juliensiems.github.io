@@ -6,12 +6,12 @@ layout: homepage
 
 I am a Ph.D. student at the University of Freiburg supervised by Prof. Frank Hutter. 
 
-After finishing my Masters in Freiburg, I gained diverse experience at 
+After finishing my Masters in Freiburg in 2020, I was an Applied Science Intern at AWS Berlin working on Neural Network Pruning, I worked on Bayesian Optimization for combinatorial auctions at the University of Zurich, did research into numerical optimization for inverse problems at TU Munich and worked as a Machine Learning Researcher at Merantix Momentum on Interpretable Machine Learning.
 
 ## Research Interests
 
-- **Interpretability:** image recognition, image generation, video captioning
-- **In-Context Learning:** meta-learning, incremental learning, transfer learning
+- **Interpretability:** Generalized Additive Models, Concurvity
+- **In-Context Learning:** Mechanistic Interpretability
 
 ## News
 
