@@ -25,7 +25,7 @@ main:
 
   - title: "Monotone-Value Neural Networks: Exploiting Preference Monotonicity in Combinatorial Assignment"
     authors: Jakob Weissteiner*, Jakob Heiss*, Julien Siems*, Sven Seuken (*equal contribution)
-    conference_short: ICJAI-ECAI
+    conference_short: IJCAI-ECAI
     conference: International Joint Conference on Artificial Intelligence & European Conference on Artificial Intelligence 2022
     pdf: https://www.ijcai.org/proceedings/2022/77
     code: https://github.com/marketdesignresearch/MVNN
