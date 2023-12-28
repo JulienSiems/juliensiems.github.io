@@ -8,13 +8,9 @@ main:
     code: https://github.com/merantix-momentum/concurvity-regularization
     image: ./assets/img/teaser_concurvity.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Interpretable Reinforcement Learning via Neural Additive Models for Inventory Management"
+    authors: Julien Siems, Maximilian Schambach, Sebastian Schulze, Johannes S Otterbach
+    conference_short: AI4ABM@ICLR
+    conference: Workshop AI4ABM at ICLR 20233
+    pdf: https://arxiv.org/pdf/2303.10382
+    image: ./assets/img/teaser_interp_rl.png
