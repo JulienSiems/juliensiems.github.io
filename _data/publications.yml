@@ -46,7 +46,7 @@ main:
     pdf: https://assets.amazon.science/13/93/313fb3ff48a1af7e9a2fab004811/dynamic-pruning-of-a-neural-network-via-gradient-signal-to-noise-ratio.pdf
     image: ./assets/img/teaser_dynamic_prune.png
 
- - title: "NAS-Bench-1Shot1: Benchmarking and dissecting one-shot neural architecture search"
+  - title: "NAS-Bench-1Shot1: Benchmarking and dissecting one-shot neural architecture search"
     authors: Arber Zela*, Julien Siems*, Frank Hutter (*equal contribution)
     conference_short: ICLR
     conference: International Conference on Learning Representation 2020
@@ -54,7 +54,7 @@ main:
     code: https://github.com/automl/nasbench-1shot1
     image: ./assets/img/teaser_nb_1shot1.png
 
- - title: "Faster training of Mask R-CNN by focusing on instance boundaries"
+  - title: "Faster training of Mask R-CNN by focusing on instance boundaries"
     authors: Roland Zimmermann*, Julien Siems* (*equal contribution)
     conference_short: CVIU
     conference: Computer Vision and Image Understanding Journal
