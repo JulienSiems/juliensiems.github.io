@@ -1,63 +1,22 @@
 main:
 
-  - title: "Curve Your Enthusiasm: Concurvity Regularization in Differentiable Generalized Additive Models"
-    authors: Julien Siems*, Konstantin Ditschuneit*, Winfried Ripken*, Alma Lindborg*, Maximilian Schambach, Johannes S. Otterbach, Martin Genzel (*equal contribution)
-    conference_short: NeurIPS
-    conference: Neural Information Processing Systems 2023
-    pdf: https://arxiv.org/pdf/2305.11475.pdf
-    code: https://github.com/merantix-momentum/concurvity-regularization
-    image: ./assets/img/teaser_concurvity.png
+  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
+    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+    conference_short: MICCAI
+    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    code: https://github.com/MrGiovanni/ContinualLearning
+    bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/teaser_example_2.png
+    notes: Early Accept
 
-  - title: "Interpretable Reinforcement Learning via Neural Additive Models for Inventory Management"
-    authors: Julien Siems, Maximilian Schambach, Sebastian Schulze, Johannes S Otterbach
-    conference_short: AI4ABM@ICLR
-    conference: Workshop AI4ABM at ICLR 20233
-    pdf: https://arxiv.org/pdf/2303.10382
-    image: ./assets/img/teaser_interp_rl.png
-
-  - title: "Bayesian Optimization-Based Combinatorial Assignment"
-    authors: Jakob Weissteiner*, Jakob Heiss*, Julien Siems*, Sven Seuken (*equal contribution)
-    conference_short: AAAI
-    conference: AAAI 2023
-    pdf: https://arxiv.org/pdf/2208.14698.pdf
-    code: https://github.com/marketdesignresearch/BOCA
-    image: ./assets/img/teaser_boca.png
-
-  - title: "Monotone-Value Neural Networks: Exploiting Preference Monotonicity in Combinatorial Assignment"
-    authors: Jakob Weissteiner*, Jakob Heiss*, Julien Siems*, Sven Seuken (*equal contribution)
-    conference_short: ICJAI-ECAI
-    conference: International Joint Conference on Artificial Intelligence & European Conference on Artificial Intelligence 2022
-    pdf: https://www.ijcai.org/proceedings/2022/77
-    code: https://github.com/marketdesignresearch/MVNN
-    image: ./assets/img/teaser_mvnn.png
-
-  - title: "Surrogate NAS Benchmarks: Going Beyond the Limited Search Spaces of Tabular NAS Benchmarks"
-    authors: Arber Zela*, Julien Siems*, Lucas Zimmer*, Jovita Lukasik, Margret Keuper, Frank Hutter (*equal contribution)
-    conference_short: ICLR
-    conference: International Conference on Learning Representation 2022
-    pdf: https://arxiv.org/pdf/2008.09777
-    code: https://github.com/automl/nasbench301
-    image: ./assets/img/teaser_nb_301.png
-
-  - title: "Dynamic Pruning of a Neural Network via Gradient Signal-to-Noise Ratios"
-    authors: Julien Siems, Aaron Klein, Cedric Archambeau, Maren Mahsereci
-    conference_short: AutoML @ ICML
-    conference: 8th ICML Workshop on Automated Machine Learning (AutoML) at ICML 2021
-    pdf: https://assets.amazon.science/13/93/313fb3ff48a1af7e9a2fab004811/dynamic-pruning-of-a-neural-network-via-gradient-signal-to-noise-ratio.pdf
-    image: ./assets/img/teaser_dynamic_prune.png
-
- - title: "NAS-Bench-1Shot1: Benchmarking and dissecting one-shot neural architecture search"
-    authors: Arber Zela*, Julien Siems*, Frank Hutter (*equal contribution)
-    conference_short: ICLR
-    conference: International Conference on Learning Representation 2020
-    pdf: https://arxiv.org/pdf/2008.09777
-    code: https://github.com/automl/nasbench-1shot1
-    image: ./assets/img/teaser_nb_1shot1.png
-
- - title: "Faster training of Mask R-CNN by focusing on instance boundaries"
-    authors: Roland Zimmermann*, Julien Siems* (*equal contribution)
-    conference_short: CVIU
-    conference: Computer Vision and Image Understanding Journal
-    pdf: https://arxiv.org/pdf/1809.07069.pdf
-    code: https://github.com/zimmerrol/mask-rcnn-edge-agreement-loss
-    image: ./assets/img/teaser_edge_agreement.png
+  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
+    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+    conference_short: CVPR
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Oral Presentation
+    image: ./assets/img/teaser_example.png
