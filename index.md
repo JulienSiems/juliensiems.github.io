@@ -11,10 +11,10 @@ After finishing my Masters in Freiburg in 2020, I was an Applied Science Intern 
 ## Research Interests
 
 - **Interpretability:** Generalized Additive Models, Concurvity
-- **In-Context Learning:** Mechanistic Interpretability
+- **In-Context Learning:** Mechanistic Interpretability, Prior Data Fitted Networks
 
 ## News
-
+- **[Feb. 2024]** New preprint "Is Mamba Capable of In-Context Learning?" is out.
 - **[Sep. 2023]** Our paper on concurvity (non-linear equivalent of multicollinearity) regularization was accepted at NeurIPS 2023.
 - **[Jun. 2023]** Our paper on concurvity (non-linear equivalent of multicollinearity) regularization was accepted at the Interpretable Machine Learning in Health Care Workshop at ICML 2023.
 - **[Mar. 2023]** Our paper on interpretable reinforcement learning via neural additive models was accepted at the AI4ABM Workshop at ICLR 2023.

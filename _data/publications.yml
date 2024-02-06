@@ -1,4 +1,10 @@
 main:
+  - title: "Is Mamba Capable of In-Context Learning"
+    authors: Riccardo Grazzi*, Julien Siems*, Simon Schrodi, Thomas Brox, Frank Hutter(*equal contribution)
+    conference_short: Preprint
+    conference: Preprint under review
+    pdf: https://arxiv.org/pdf/2402.03170.pdf
+    image: ./assets/img/teaser_mamba_icl.png
 
   - title: "Curve Your Enthusiasm: Concurvity Regularization in Differentiable Generalized Additive Models"
     authors: Julien Siems*, Konstantin Ditschuneit*, Winfried Ripken*, Alma Lindborg*, Maximilian Schambach, Johannes S. Otterbach, Martin Genzel (*equal contribution)
@@ -11,7 +17,7 @@ main:
   - title: "Interpretable Reinforcement Learning via Neural Additive Models for Inventory Management"
     authors: Julien Siems, Maximilian Schambach, Sebastian Schulze, Johannes S Otterbach
     conference_short: AI4ABM@ICLR
-    conference: Workshop AI4ABM at International Conference on Learning Representations (ICLR) 20233
+    conference: Workshop AI4ABM at International Conference on Learning Representations (ICLR) 2023
     pdf: https://arxiv.org/pdf/2303.10382
     image: ./assets/img/teaser_interp_rl.png
 
