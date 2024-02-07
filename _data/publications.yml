@@ -1,6 +1,6 @@
 main:
   - title: "Is Mamba Capable of In-Context Learning?"
-    authors: Riccardo Grazzi*, Julien Siems*, Simon Schrodi, Thomas Brox, Frank Hutter(*equal contribution)
+    authors: Riccardo Grazzi*, Julien Siems*, Simon Schrodi, Thomas Brox, Frank Hutter (*equal contribution)
     conference_short: Preprint
     conference: Preprint under review
     pdf: https://arxiv.org/pdf/2402.03170.pdf
