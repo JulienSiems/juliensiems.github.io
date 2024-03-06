@@ -1,8 +1,8 @@
 main:
   - title: "Is Mamba Capable of In-Context Learning?"
     authors: Riccardo Grazzi*, Julien Siems*, Simon Schrodi, Thomas Brox, Frank Hutter (*equal contribution)
-    conference_short: Preprint
-    conference: Preprint under review
+    conference_short: ME-FoMo@ICLR
+    conference: ICLR 2024 Workshop on Mathematical and Empirical Understanding of Foundation Models (ME-FoMo)
     pdf: https://arxiv.org/pdf/2402.03170.pdf
     image: ./assets/img/teaser_mamba_icl.png
 
