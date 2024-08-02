@@ -13,7 +13,7 @@ After finishing my Masters in Freiburg in 2020, I was an Applied Science Intern 
 - **Interpretability:** Generalized Additive Models
 
 ## News
-- **[Jul. 2024]** I co-organized the [1st workshop on In-Context Learning (ICL) at ICML 2024](https://iclworkshop.github.io) alongside Frank Hutter, Erin Grant, Beyza Ermiş, Jelena Bratulić and Noah Hollmann.
+- **[Jul. 2024]** I co-organized the [1st Workshop on In-Context Learning (ICL) at ICML 2024](https://iclworkshop.github.io) alongside Frank Hutter, Erin Grant, Beyza Ermiş, Jelena Bratulić and Noah Hollmann.
 - **[Jul. 2024]** I co-organized the ELLIS networking event for the new ELLIS Institute Tübingen at ICML 2024 with Jörg Franke.
 - **[Mar. 2024]** Our paper "Is Mamba Capable of In-Context Learning?" is accepted at the ICLR 2024 Workshop on Mathematical and Empirical Understanding of Foundation Models (ME-FoMo) and at the AutoML Conference.
 - **[Sep. 2023]** Our paper on concurvity (non-linear equivalent of multicollinearity) regularization was accepted at NeurIPS 2023.
