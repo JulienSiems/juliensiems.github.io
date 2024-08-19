@@ -6,7 +6,7 @@ layout: homepage
 
 I am a Ph.D. student at the University of Freiburg advised by Prof. Frank Hutter. 
 
-After finishing my Masters in Freiburg in 2020, I was an Applied Science Intern at AWS Berlin working on Neural Network Pruning, I worked on Bayesian Optimization for combinatorial auctions at the University of Zurich, did research into numerical optimization for inverse problems at TU Munich and worked as a Machine Learning Researcher at Merantix Momentum on Interpretable Machine Learning.
+After graduating from the University of Freiburg in 2020 with distinction, I was an Applied Science Intern at AWS Berlin working on Neural Network Pruning, I worked on Bayesian Optimization for combinatorial auctions at the University of Zurich, did research into numerical optimization for inverse problems at TU Munich and worked as a Machine Learning Researcher at Merantix Momentum on Interpretable Machine Learning.
 
 ## Research Interests
 - **In-Context Learning:** State-Space Models, Linear Attention
