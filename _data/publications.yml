@@ -1,4 +1,11 @@
 main:
+  - title: "GAMformer: In-Context Learning for Generalized Additive Models"
+    authors: Andreas Müller*, Julien Siems*, Harsha Nori, David Salinas, Arber Zela, Rich Caruana, Frank Hutter (*equal contribution)
+    conference_short: arxiv
+    conference: arxiv
+    pdf: https://arxiv.org/pdf/2410.04560
+    image: ./assets/img/teaser_gamformer.jpg
+
   - title: "Is Mamba Capable of In-Context Learning?"
     authors: Riccardo Grazzi*, Julien Siems*, Simon Schrodi, Thomas Brox, Frank Hutter (*equal contribution)
     conference_short: ME-FoMo@ICLR
