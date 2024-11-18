@@ -1,10 +1,10 @@
 main:
-  - title: "Mamba4Cast: Efficient Zero-Shot Time Series Forecasting with State Space Models"
-    authors: Sathya Kamesh Bhethanabhotla*, Omar Swelam*, Julien Siems, David Salinas, Frank Hutter (*equal contribution)
-    conference_short: TS@NeurIPS (Spotlight)
-    conference: NeurIPS Workshop on Time Series in the Age of Large Models (Spotlight)
-    pdf: https://arxiv.org/abs/2410.09385
-    image: ./assets/img/teaser_mamba4cast.png
+  - title: "Unlocking State-Tracking in Linear RNNs through Negative Eigenvalues"
+    authors: Riccardo Grazzi*, Julien Siems*, Jörg Franke, Arber Zela, Frank Hutter, Massimiliano Pontil (*equal contribution)
+    conference_short: M3L@NeurIPS (Oral)
+    conference: NeurIPS Workshop on Mathematics of Modern Machine Learning Workshop (Oral)
+    pdf: https://openreview.net/pdf?id=EXGAodFkQX
+    image: ./assets/img/teaser_negative_eigenvalues.jpg
 
   - title: "GAMformer: In-Context Learning for Generalized Additive Models"
     authors: Andreas Müller*, Julien Siems*, Harsha Nori, David Salinas, Arber Zela, Rich Caruana, Frank Hutter (*equal contribution)
@@ -12,6 +12,13 @@ main:
     conference: NeurIPS Workshop on Tabular Representation Learning
     pdf: https://arxiv.org/pdf/2410.04560
     image: ./assets/img/teaser_gamformer.jpg
+
+  - title: "Mamba4Cast: Efficient Zero-Shot Time Series Forecasting with State Space Models"
+    authors: Sathya Kamesh Bhethanabhotla*, Omar Swelam*, Julien Siems, David Salinas, Frank Hutter (*equal contribution)
+    conference_short: TS@NeurIPS (Spotlight)
+    conference: NeurIPS Workshop on Time Series in the Age of Large Models (Spotlight)
+    pdf: https://arxiv.org/abs/2410.09385
+    image: ./assets/img/teaser_mamba4cast.png
 
   - title: "Is Mamba Capable of In-Context Learning?"
     authors: Riccardo Grazzi*, Julien Siems*, Simon Schrodi, Thomas Brox, Frank Hutter (*equal contribution)
