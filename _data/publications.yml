@@ -1,6 +1,6 @@
 main:
   - title: "Unlocking State-Tracking in Linear RNNs through Negative Eigenvalues"
-    authors: Riccardo Grazzi*, Julien Siems*, Jörg Franke, Arber Zela, Frank Hutter, Massimiliano Pontil (*equal contribution)
+    authors: Riccardo Grazzi, Julien Siems, Jörg Franke, Arber Zela, Frank Hutter, Massimiliano Pontil
     conference_short: M3L@NeurIPS (Oral)
     conference: NeurIPS Workshop on Mathematics of Modern Machine Learning Workshop (Oral)
     pdf: https://openreview.net/pdf?id=EXGAodFkQX
