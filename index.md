@@ -22,7 +22,8 @@ After graduating from the University of Freiburg in 2020 with distinction, I was
 - **[Nov. 2022]** Our paper on Bayesian Optimization Based Combinatorial Assignment was accepted at AAAI 2023.
 
 ## Seminars / Lectures
-- **[April 2024]** Is Mamba Capable of In-Context Learning? At the AutoML Online Seminar with Riccardo Grazzi ([Youtube](https://www.youtube.com/watch?v=q5-RPiBP2Bs)) ([Extended Slides](https://docs.google.com/presentation/d/e/2PACX-1vSU577DacRC1VDjMmqmY_JMiATDxc3JRPSgDzrM_QDqf3ZjE64IXcXvBAmHm14TAQXbCtptFsSkokFz/pub?start=false&loop=false&delayms=3000&slide=id.p))
+- **[Jan. 2025]** Unlocking State-Tracking in Linear RNNs Through Negative Eigenvalues with Riccardo Grazzi ([Youtube](https://www.youtube.com/watch?v=E2qBhMmjspU)) 
+- **[Apr. 2024]** Is Mamba Capable of In-Context Learning? At the AutoML Online Seminar with Riccardo Grazzi ([Youtube](https://www.youtube.com/watch?v=q5-RPiBP2Bs)) ([Extended Slides](https://docs.google.com/presentation/d/e/2PACX-1vSU577DacRC1VDjMmqmY_JMiATDxc3JRPSgDzrM_QDqf3ZjE64IXcXvBAmHm14TAQXbCtptFsSkokFz/pub?start=false&loop=false&delayms=3000&slide=id.p))
 
 {% include_relative _includes/publications.md %}
 
