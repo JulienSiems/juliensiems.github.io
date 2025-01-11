@@ -17,9 +17,6 @@ After graduating from the University of Freiburg in 2020 with distinction, I was
 - **[Jul. 2024]** I co-organized the [1st Workshop on In-Context Learning (ICL) at ICML 2024](https://iclworkshop.github.io) alongside Frank Hutter, Erin Grant, Beyza Ermiş, Jelena Bratulić and Noah Hollmann.
 - **[Mar. 2024]** Our paper "Is Mamba Capable of In-Context Learning?" is accepted at the ICLR 2024 Workshop on Mathematical and Empirical Understanding of Foundation Models (ME-FoMo) and at the AutoML Conference.
 - **[Sep. 2023]** Our paper on concurvity (non-linear equivalent of multicollinearity) regularization was accepted at NeurIPS 2023.
-- **[Mar. 2023]** Our paper on interpretable reinforcement learning via neural additive models was accepted at the AI4ABM Workshop at ICLR 2023.
-- **[Feb. 2023]** We won the Energy Forecasting Challenge on Kaggle organized by Hessian AI.
-- **[Nov. 2022]** Our paper on Bayesian Optimization Based Combinatorial Assignment was accepted at AAAI 2023.
 
 ## Seminars / Lectures
 - **[Jan. 2025]** Unlocking State-Tracking in Linear RNNs Through Negative Eigenvalues with Riccardo Grazzi ([Youtube](https://www.youtube.com/watch?v=E2qBhMmjspU)) 
