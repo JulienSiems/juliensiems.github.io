@@ -1,7 +1,7 @@
 main:
   - title: "Unlocking State-Tracking in Linear RNNs through Negative Eigenvalues"
     authors: Riccardo Grazzi*, Julien Siems*, Jörg Franke, Arber Zela, Frank Hutter, Massimiliano Pontil (*equal contribution)
-    conference_short: ICLR
+    conference_short: ICLR (Oral)
     conference: International Conference on Learning Representation 2025 (Oral)
     pdf: https://arxiv.org/pdf/2411.12537
     image: ./assets/img/teaser_negative_eigenvalues.jpg
