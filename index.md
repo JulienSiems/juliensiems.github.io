@@ -21,7 +21,7 @@ After graduating from the University of Freiburg in 2020 with distinction, I was
 - **[Sep. 2023]** Our paper on concurvity (non-linear equivalent of multicollinearity) regularization was accepted at NeurIPS 2023.
 
 ## Seminars / Lectures
-- **[Mar. 2025]** State-Tracking in Linear RNNs ([Youtube](https://www.youtube.com/watch?v=R_0vSJvhvWg)) 
+- **[Mar. 2025]** State-Tracking in Linear RNNs at the Advances in Sequence modeling from Algorithmic Perspectives Seminar([Youtube](https://www.youtube.com/watch?v=R_0vSJvhvWg)) 
 - **[Jan. 2025]** Unlocking State-Tracking in Linear RNNs Through Negative Eigenvalues ([Youtube](https://www.youtube.com/watch?v=E2qBhMmjspU)) ([Slides](assets/files/slides/unlocking_state_tracking.pdf))
 - **[Apr. 2024]** Is Mamba Capable of In-Context Learning? At the AutoML Online Seminar ([Youtube](https://www.youtube.com/watch?v=q5-RPiBP2Bs)) ([Extended Slides](https://docs.google.com/presentation/d/e/2PACX-1vSU577DacRC1VDjMmqmY_JMiATDxc3JRPSgDzrM_QDqf3ZjE64IXcXvBAmHm14TAQXbCtptFsSkokFz/pub?start=false&loop=false&delayms=3000&slide=id.p))
 
