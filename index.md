@@ -13,7 +13,7 @@ After graduating from the University of Freiburg in 2020 with distinction, I was
 - **Interpretability:** Generalized Additive Models
 
 ## News
-- **[Mar. 2025]** "DeltaProduct: Increasing the Expressivity of DeltaNet Through Products of Householders" is accepted at FM-WILD Workshop at ICLR 2025.
+- **[Mar. 2025]** "DeltaProduct: Increasing the Expressivity of DeltaNet Through Products of Householders" is accepted as Oral at FM-WILD Workshop at ICLR 2025.
 - **[Feb. 2025]** "Unlocking State-Tracking in Linear RNNs Through Negative Eigenvalues" is accepted as an Oral at ICLR 2025.
 - **[Oct. 2024]** 3 papers accepted at NeurIPS workshops: "Unlocking State-Tracking in Linear RNNs Through Negative Eigenvalues" (Oral), "GAMformer" (Oral), and "Mamba4Cast" (Spotlight).
 - **[Jul. 2024]** I co-organized the [1st Workshop on In-Context Learning (ICL) at ICML 2024](https://iclworkshop.github.io) alongside Frank Hutter, Erin Grant, Beyza Ermiş, Jelena Bratulić and Noah Hollmann.
