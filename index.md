@@ -9,8 +9,7 @@ I am a Ph.D. student at the University of Freiburg advised by Prof. Frank Hutter
 After graduating from the University of Freiburg in 2020 with distinction, I was an Applied Science Intern at AWS Berlin working on Neural Network Pruning, I worked on Bayesian Optimization for combinatorial auctions at the University of Zurich, did research into numerical optimization for inverse problems at TU Munich and worked as a Machine Learning Researcher at Merantix Momentum on Interpretable Machine Learning.
 
 ## Research Interests
-- **In-Context Learning:** State-Space Models, Linear Attention, Linear RNNs
-- **Interpretability:** Generalized Additive Models
+- Linear RNNs / State-Space Models, State-Tracking, In-Context Learning
 
 ## News
 - **[Mar. 2025]** "DeltaProduct: Increasing the Expressivity of DeltaNet Through Products of Householders" is accepted as Oral at FM-WILD Workshop at ICLR 2025.
