@@ -1,5 +1,5 @@
 main:
-  - title: "DeltaProduct: Increasing the Expressivity of DeltaNet Through Products of Householders"
+  - title: "DeltaProduct: Improving State-Tracking in Linear RNNs via Householder Products"
     authors: Julien Siems*, Timur Carstensen*, Arber Zela, Frank Hutter, Massimiliano Pontil, Riccardo Grazzi* (*equal contribution)
     conference_short: FM-Wild@ICLR (Oral)
     conference: ICLR Workshop on Foundations Models in the Wild (Oral)
