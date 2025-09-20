@@ -2,7 +2,7 @@ main:
   - title: "DeltaProduct: Improving State-Tracking in Linear RNNs via Householder Products"
     authors: Julien Siems*, Timur Carstensen*, Arber Zela, Frank Hutter, Massimiliano Pontil, Riccardo Grazzi* (*equal contribution)
     conference_short: NeurIPS
-    conference: NeurIPS 2025
+    conference: Neural Information Processing Systems (NeurIPS) 2025
     pdf: https://arxiv.org/abs/2502.10297
     image: ./assets/img/teaser_deltaproduct.png
 
