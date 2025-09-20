@@ -12,6 +12,7 @@ After graduating from the University of Freiburg in 2020 with distinction, I was
 - Linear RNNs / State-Space Models, State-Tracking, In-Context Learning
 
 ## News
+- **[Sept. 2025]** "DeltaProduct: Improving State-Tracking in Linear RNNs via Householder Products" is accepted as NeurIPS 2025.
 - **[Mar. 2025]** "DeltaProduct: Improving State-Tracking in Linear RNNs via Householder Products" is accepted as Oral at FM-WILD Workshop at ICLR 2025.
 - **[Feb. 2025]** "Unlocking State-Tracking in Linear RNNs Through Negative Eigenvalues" is accepted as an Oral at ICLR 2025.
 - **[Oct. 2024]** 3 papers accepted at NeurIPS workshops: "Unlocking State-Tracking in Linear RNNs Through Negative Eigenvalues" (Oral), "GAMformer" (Oral), and "Mamba4Cast" (Spotlight).
