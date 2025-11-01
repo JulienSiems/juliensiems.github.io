@@ -4,7 +4,7 @@ main:
     conference_short: arxiv
     conference: arxiv
     pdf: https://arxiv.org/abs/2510.25502v1
-    image: ./assets/img/teaser_tempopfn.png
+    image: ./assets/img/teaser_tempopfn.jpg
     
   - title: "DeltaProduct: Improving State-Tracking in Linear RNNs via Householder Products"
     authors: Julien Siems*, Timur Carstensen*, Arber Zela, Frank Hutter, Massimiliano Pontil, Riccardo Grazzi* (*equal contribution)
