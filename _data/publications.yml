@@ -4,6 +4,7 @@ main:
     conference_short: arxiv
     conference: arxiv
     pdf: https://arxiv.org/abs/2510.25502v1
+    code: https://github.com/automl/TempoPFN
     image: ./assets/img/teaser_tempopfn.jpg
     
   - title: "DeltaProduct: Improving State-Tracking in Linear RNNs via Householder Products"
