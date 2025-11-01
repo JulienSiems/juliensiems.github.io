@@ -1,4 +1,11 @@
 main:
+  - title: "TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting"
+    authors: Vladyslav Moroshan*, Julien Siems*, Arber Zela, Timur Carstensen, Frank Hutter (*equal contribution)
+    conference_short: arxiv
+    conference: arxiv
+    pdf: https://arxiv.org/abs/2510.25502v1
+    image: ./assets/img/teaser_tempopfn.png
+    
   - title: "DeltaProduct: Improving State-Tracking in Linear RNNs via Householder Products"
     authors: Julien Siems*, Timur Carstensen*, Arber Zela, Frank Hutter, Massimiliano Pontil, Riccardo Grazzi* (*equal contribution)
     conference_short: NeurIPS
