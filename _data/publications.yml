@@ -2,7 +2,7 @@ main:
   - title: "TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting"
     authors: Vladyslav Moroshan*, Julien Siems*, Arber Zela, Timur Carstensen, Frank Hutter (*equal contribution)
     conference_short: Tabular WS@EurIPS
-    conference: AI for Tabular Data workshop @ EurIPS 2025
+    conference: AI for Tabular Data Workshop @ EurIPS 2025
     pdf: https://arxiv.org/abs/2510.25502v1
     code: https://github.com/automl/TempoPFN
     image: ./assets/img/teaser_tempopfn.jpg
