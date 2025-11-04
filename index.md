@@ -12,7 +12,7 @@ After graduating from the University of Freiburg in 2020 with distinction, I was
 - Linear RNNs / State-Space Models, State-Tracking, In-Context Learning
 
 ## News
-- **[Okt. 2025]** New preprint "TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting" on arxiv.
+- **[Okt. 2025]** "TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting" accepted at Tabular-AI Workshop at EurIPS 2025.
 - **[Sept. 2025]** I am interning at Microsoft Research Cambridge from Sept. to Nov. 2025.
 - **[Sept. 2025]** "DeltaProduct: Improving State-Tracking in Linear RNNs via Householder Products" is accepted at NeurIPS 2025.
 - **[Mar. 2025]** "DeltaProduct: Improving State-Tracking in Linear RNNs via Householder Products" is accepted as Oral at FM-WILD Workshop at ICLR 2025.
