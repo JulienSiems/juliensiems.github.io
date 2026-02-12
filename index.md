@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at the University of Freiburg advised by Prof. Frank Hutter.
+I am an AI Scientist at Prior Labs and a Ph.D. student at the University of Freiburg advised by Prof. Frank Hutter.
 
 After graduating from the University of Freiburg in 2020 with distinction, I was an Applied Science Intern at AWS Berlin working on Neural Network Pruning, I worked on Bayesian Optimization for combinatorial auctions at the University of Zurich, did research into numerical optimization for inverse problems at TU Munich and worked as a Machine Learning Researcher at Merantix Momentum on Interpretable Machine Learning.
 
@@ -12,6 +12,7 @@ After graduating from the University of Freiburg in 2020 with distinction, I was
 - Linear RNNs / State-Space Models, State-Tracking, In-Context Learning
 
 ## News
+- **[Jan. 2026]** I joined Prior Labs as AI Scientist.
 - **[Oct. 2025]** "TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting" accepted at Tabular-AI Workshop at EurIPS 2025.
 - **[Sept. 2025]** I am interning at Microsoft Research Cambridge from Sept. to Nov. 2025.
 - **[Sept. 2025]** "DeltaProduct: Improving State-Tracking in Linear RNNs via Householder Products" is accepted at NeurIPS 2025.
