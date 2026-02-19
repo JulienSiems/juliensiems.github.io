@@ -1,4 +1,11 @@
 main:
+  - title: "Learning State-Tracking from Code Using Linear RNNs"
+    authors: Julien Siems*, Riccardo Grazzi*, Kirill Kalinin, Hitesh Ballani, Babak Rahmani* (*equal contribution)
+    conference_short: arxiv
+    conference: preprint
+    pdf: https://www.arxiv.org/abs/2602.14814
+    image: ./assets/img/cups.jpg
+
   - title: "TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting"
     authors: Vladyslav Moroshan*, Julien Siems*, Arber Zela, Timur Carstensen, Frank Hutter (*equal contribution)
     conference_short: Tabular WS@EurIPS
