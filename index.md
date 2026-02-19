@@ -19,8 +19,6 @@ After graduating from the University of Freiburg in 2020 with distinction, I was
 - **[Sept. 2025]** "DeltaProduct: Improving State-Tracking in Linear RNNs via Householder Products" is accepted at NeurIPS 2025.
 - **[Mar. 2025]** "DeltaProduct: Improving State-Tracking in Linear RNNs via Householder Products" is accepted as Oral at FM-WILD Workshop at ICLR 2025.
 - **[Feb. 2025]** "Unlocking State-Tracking in Linear RNNs Through Negative Eigenvalues" is accepted as an Oral at ICLR 2025.
-- **[Oct. 2024]** 3 papers accepted at NeurIPS workshops: "Unlocking State-Tracking in Linear RNNs Through Negative Eigenvalues" (Oral), "GAMformer" (Oral), and "Mamba4Cast" (Spotlight).
-- **[Jul. 2024]** I co-organized the [1st Workshop on In-Context Learning (ICL) at ICML 2024](https://iclworkshop.github.io) alongside Frank Hutter, Erin Grant, Beyza Ermiş, Jelena Bratulić and Noah Hollmann.
 
 ## Seminars / Lectures
 - **[Mar. 2025]** State-Tracking in Linear RNNs at the Advances in Sequence modeling from Algorithmic Perspectives Seminar ([Youtube](https://www.youtube.com/watch?v=R_0vSJvhvWg)) ([Slides](assets/files/slides/state_tracking_asap_seminar_slides.pdf)) 
