@@ -4,7 +4,7 @@ main:
     conference_short: arxiv
     conference: preprint
     pdf: https://www.arxiv.org/abs/2602.14814
-    image: ./assets/img/cups.jpg
+    image: ./assets/img/cups.png
 
   - title: "TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting"
     authors: Vladyslav Moroshan*, Julien Siems*, Arber Zela, Timur Carstensen, Frank Hutter (*equal contribution)
