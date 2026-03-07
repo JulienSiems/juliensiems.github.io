@@ -12,7 +12,7 @@ After graduating from the University of Freiburg in 2020 with distinction, I was
 - Linear RNNs / State-Space Models, State-Tracking, In-Context Learning
 
 ## News
-- **[Feb. 2026]** New preprint "Learning State-Tracking from Code Using Linear RNNs".
+- **[Feb. 2026]** "Learning State-Tracking from Code Using Linear RNNs" accepted at ICLR ICBINB Workshop 2026.
 - **[Jan. 2026]** I joined Prior Labs as AI Scientist.
 - **[Oct. 2025]** "TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting" accepted at Tabular-AI Workshop at EurIPS 2025.
 - **[Sept. 2025]** I am interning at Microsoft Research Cambridge from Sept. to Nov. 2025.

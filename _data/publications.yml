@@ -1,8 +1,8 @@
 main:
   - title: "Learning State-Tracking from Code Using Linear RNNs"
     authors: Julien Siems*, Riccardo Grazzi*, Kirill Kalinin, Hitesh Ballani, Babak Rahmani* (*equal contribution)
-    conference_short: arxiv
-    conference: preprint
+    conference_short: ICBINB@ICLR
+    conference: I can't believe it's not better workshop at ICLR 2026.
     pdf: https://www.arxiv.org/abs/2602.14814
     image: ./assets/img/cups.png
 
