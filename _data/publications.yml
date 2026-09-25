@@ -1,4 +1,12 @@
 main:
+  - title: "Complex KDA: Understanding and Enhancing the Expressivity of Kimi Delta Attention"
+    authors: Julien Siems*, Riccardo Grazzi*, Korbinian Pöppel*, Jaisidh Singh, Arber Zela, Timur Carstensen, Jenia Jitsev, Frank Hutter, Volkan Cevher, Antonio Orvieto, Aaron Klein (*equal contribution)
+    conference_short: arxiv
+    conference: arxiv
+    pdf: https://arxiv.org/abs/2609.24797
+    code: https://github.com/OpenEuroLLM/ComplexKDA
+    image: ./assets/img/signed_kda_hand.gif
+
   - title: "Learning State-Tracking from Code Using Linear RNNs"
     authors: Julien Siems*, Riccardo Grazzi*, Kirill Kalinin, Hitesh Ballani, Babak Rahmani* (*equal contribution)
     conference_short: ICBINB@ICLR
@@ -8,8 +16,8 @@ main:
 
   - title: "TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting"
     authors: Vladyslav Moroshan*, Julien Siems*, Arber Zela, Timur Carstensen, Frank Hutter (*equal contribution)
-    conference_short: Tabular WS@EurIPS
-    conference: AI for Tabular Data Workshop @ EurIPS 2025
+    conference_short: NeurIPS
+    conference: Neural Information Processing Systems (NeurIPS) 2026
     pdf: https://arxiv.org/abs/2510.25502v1
     code: https://github.com/automl/TempoPFN
     image: ./assets/img/teaser_tempopfn.jpg
