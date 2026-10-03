@@ -12,6 +12,7 @@ After graduating from the University of Freiburg in 2020 with distinction, I was
 - Linear RNNs / State-Space Models, State-Tracking, In-Context Learning
 
 ## News
+- **[Sept. 2026]** Complex KDA is accepted at the NeurReps Workshop at NeurIPS 2026.
 - **[Sept. 2026]** TempoPFN is accepted at NeurIPS 2026.
 - **[Sept. 2026]** New preprint "Complex KDA: Understanding and Enhancing the Expressivity of Kimi Delta Attention".
 - **[Feb. 2026]** "Learning State-Tracking from Code Using Linear RNNs" accepted at ICLR ICBINB Workshop 2026.
