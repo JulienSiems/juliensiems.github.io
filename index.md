@@ -14,13 +14,10 @@ After graduating from the University of Freiburg in 2020 with distinction, I was
 ## News
 - **[Sept. 2026]** Complex KDA is accepted at the NeurReps Workshop at NeurIPS 2026.
 - **[Sept. 2026]** TempoPFN is accepted at NeurIPS 2026.
-- **[Sept. 2026]** New preprint "Complex KDA: Understanding and Enhancing the Expressivity of Kimi Delta Attention".
 - **[Feb. 2026]** "Learning State-Tracking from Code Using Linear RNNs" accepted at ICLR ICBINB Workshop 2026.
 - **[Jan. 2026]** I joined Prior Labs as AI Scientist.
-- **[Oct. 2025]** "TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting" accepted at Tabular-AI Workshop at EurIPS 2025.
 - **[Sept. 2025]** I am interning at Microsoft Research Cambridge from Sept. to Nov. 2025.
 - **[Sept. 2025]** "DeltaProduct: Improving State-Tracking in Linear RNNs via Householder Products" is accepted at NeurIPS 2025.
-- **[Mar. 2025]** "DeltaProduct: Improving State-Tracking in Linear RNNs via Householder Products" is accepted as Oral at FM-WILD Workshop at ICLR 2025.
 - **[Feb. 2025]** "Unlocking State-Tracking in Linear RNNs Through Negative Eigenvalues" is accepted as an Oral at ICLR 2025.
 
 ## Seminars / Lectures
